@@ -81,3 +81,12 @@ a2 {
 a {
   padding-left: 20px;
 }
+
+h1 {
+  animation: ease-in-out 1s infinite alternate;
+}
+
+h1:hover {
+  transform: rotateZ(10deg);
+}
+
